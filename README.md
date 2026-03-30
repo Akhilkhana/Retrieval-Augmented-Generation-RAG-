@@ -1,5 +1,3 @@
-# Retrieval-Augmented-Generation-RAG-
-
 # RAG PDF Q&A — Retrieval-Augmented Generation with LangChain, Groq & ChromaDB
 
 A Jupyter Notebook implementation of a Retrieval-Augmented Generation (RAG) pipeline that lets you ask natural language questions against a PDF document. The project uses a HuggingFace embedding model for semantic search, ChromaDB as the vector store, and Groq's LLaMA 3.1 as the LLM — all wired together with LangChain. A Gradio UI is included for interactive Q&A.
